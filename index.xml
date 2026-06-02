@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog Ismerai</title>
+    <link>https://ismeraidavid.github.io/</link>
+    <description>Recent content on Blog Ismerai</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 02 Jun 2026 22:12:49 +0200</lastBuildDate>
+    <atom:link href="https://ismeraidavid.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hola mundo</title>
+      <link>https://ismeraidavid.github.io/posts/hola-mundo/</link>
+      <pubDate>Tue, 02 Jun 2026 22:12:49 +0200</pubDate>
+      <guid>https://ismeraidavid.github.io/posts/hola-mundo/</guid>
+      <description>&lt;h1 id=&#34;hola-mundo&#34;&gt;Hola mundo&lt;/h1&gt;
+&lt;p&gt;Esto es una prueba.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
